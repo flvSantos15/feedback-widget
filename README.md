@@ -2,7 +2,7 @@
 
 <div id='about'>
   <h1 align="center">
-	  🚧  Feedback Widgte 🚀 In construction...  🚧
+	  🚧  Feedback Widgte Front End 🚀  🚧
   </h1>
   <p align="center">🚀 It's an application developed to get feedback from user</p><br/>
 </div>
@@ -77,7 +77,7 @@ Tabela de conteúdos
 <div id='features'>
   <h2>Features developed during the classes</h2>
 
-  - [  ] Web view
+  - [ x ] Web view
   - [  ] Mobile view
   - [  ] dark and light mode
   
